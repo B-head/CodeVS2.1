@@ -54,12 +54,7 @@
     <Compile Include="NextPacks.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="IgnitionAI.cs" />
-    <Compile Include="TargetAI.cs" />
-    <Compile Include="TargetField.cs" />
     <Compile Include="Utility.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="TestTarget.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
